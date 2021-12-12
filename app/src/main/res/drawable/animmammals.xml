@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/mammals1" android:duration="1000" />
+    <item android:drawable="@drawable/mammals2" android:duration="1000" />
+    <item android:drawable="@drawable/mammals3" android:duration="1000" />
+    <item android:drawable="@drawable/mammals4" android:duration="1000" />
+    <item android:drawable="@drawable/mammals5" android:duration="1000" />
+</animation-list>

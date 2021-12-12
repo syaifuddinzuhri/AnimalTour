@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">APLAS Animal Tour</string>
+    <string name="transition_name">fade_trans</string>
+    <string name="insect_content">Insects or Insecta (from Latin insectum) are hexapod invertebrates and the largest group within the arthropod phylum. Definitions and circumscriptions vary; usually, insects comprise a class within the Arthropoda. As used here, the term Insecta is synonymous with Ectognatha. Insects have a chitinous exoskeleton, a three-part body (head, thorax and abdomen), three pairs of jointed legs, compound eyes and one pair of antennae. Insects are the most diverse group of animals; they include more than a million described species and represent more than half of all known living organisms. The total number of extant species is estimated at between six and ten million; potentially over 90% of the animal life forms on Earth are insects. Insects may be found in nearly all environments, although only a small number of species reside in the oceans, which are dominated by another arthropod group, crustaceans.</string>
+    <string name="arachnid_content">Arachnida (/əˈræknɪdə/) is a class of joint-legged invertebrate animals (arthropods), in the subphylum Chelicerata. Arachnida includes orders containing spiders (the largest order), scorpions, ticks, mites, harvestmen, and solifuges. In 2019, a molecular phylogenetic study also placed horseshoe crabs in Arachnida.
+Almost all adult arachnids have eight legs, although the front pair of legs in some species has converted to a sensory function, while in other species, different appendages can grow large enough to take on the appearance of extra pairs of legs. The term is derived from the Greek word ἀράχνη (aráchnē), from the myth of the hubristic human weaver Arachne, who was turned into a spider.</string>
+    <string name="mollusc_content">Mollusca is the second-largest phylum of invertebrate animals after the Arthropoda. The members are known as molluscs or mollusks[a] (/ˈmɒləsk/). Around 85,000 extant species of molluscs are recognized. The number of fossil species is estimated between 60,000 and 100,000 additional species. The proportion of undescribed species is very high. Many taxa remain poorly studied.</string>
+    <string name="crustacean_content">Crustaceans (Crustacea /krʌˈsteɪʃə/) form a large, diverse arthropod taxon which includes such animals as crabs, lobsters, crayfish, shrimps, prawns, krill, woodlice, and barnacles. The crustacean group can be treated as a subphylum under the clade Mandibulata; because of recent molecular studies it is now well accepted that the crustacean group is paraphyletic, and comprises all animals in the clade Pancrustacea other than hexapods. Some crustaceans are more closely related to insects and other hexapods than they are to certain other crustaceans.</string>
+    <string name="invert_info">Any animal that lacks a vertebral column, or backbone, in contrast to the cartilaginous or bony vertebrates. More than 90 percent of all living animal species are invertebrates.</string>
+
+    <string-array name="animal_icon">
+        <item>animfishes</item>
+        <item>animamphibians</item>
+        <item>animreptiles</item>
+        <item>animbirds</item>
+        <item>animmammals</item>
+    </string-array>
+    <string-array name="animal_video">
+        <item>videofishes</item>
+        <item>videoamphibians</item>
+        <item>videoreptiles</item>
+        <item>videobirds</item>
+        <item>videomammals</item>
+    </string-array>
+    <string-array name="animal_titles">
+        <item>Fishes</item>
+        <item>Amphibians</item>
+        <item>Reptiles</item>
+        <item>Birds</item>
+        <item>Mammals</item>
+    </string-array>
+    <string-array name="animal_youtube">
+        <item>TJN3gJoZqlY</item>
+        <item>XI8GPsf6TAc</item>
+        <item>6B0apT6VZKk</item>
+        <item>8vL_2rF8JHU</item>
+        <item>hGonwMTPV6g</item>
+    </string-array>
+    <string-array name="animal_info">
+        <item>A group of cold-blooded vertebrates that breathe with gills rather than lungs, live in water, and generally lay eggs, although some bear their young alive.</item>
+        <item>A group of cold-blooded animals which can live on land or in water and who breathes with gills when young and with lungs as an adult.</item>
+        <item> A group of cold-blooded animals which have skins covered with small hard plates called scales and lay eggs.</item>
+        <item> A group of warm-blooded vertebrates distinguished by their feathers and their two legs and two wings.</item>
+        <item> A group of warm-blooded animals that is distinguished by the possession of hair or fur, females that secrete milk for the nourishment of the young, and (typically) the birth of live young.</item>
+    </string-array>
+    <string name="title_activity_sub_invert">SubInvertActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
